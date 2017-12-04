@@ -12,4 +12,5 @@ angular.module('yapp')
 
     $scope.$state = $state;
 
+    
   });
